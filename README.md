@@ -1,4 +1,4 @@
-# Hello, I'm [Dima]
+# Hello, I'm Dima
 
 A programmer dreaming of creating innovative solutions and contributing to the world of technology. My code is my way of expressing my passion for creativity and a commitment to excellence.
 
