@@ -16,8 +16,8 @@ I have a wealth of projects under my belt, where each code is art, and every lin
 ## 🌐 Projects
 
 - [Code-directory](https://code-directory.com/) -  "A knowledge-sharing platform featuring questions and answers, along with code examples in various programming languages. My goal is to make coding learning engaging and accessible to everyone, regardless of their level of experience."
-- [Barley-Break Game]((https://barley-break-seven.vercel.app/)): "A classic tile puzzle involves shuffling tiles on a game board. The project's goal is to provide users with an engaging experience of solving puzzles, fostering the development of logical thinking."
-- [Marvel Information Portal](https://marvel-characters-ivory.vercel.app/): "A website about the Marvel Universe that enables users to find information about characters and comics. The goal is to simplify the search process and provide convenient access to the Marvel world for fans."
+- [Barley-Break Game](https://barley-break-seven.vercel.app/) -  "A classic tile puzzle involves shuffling tiles on a game board. The project's goal is to provide users with an engaging experience of solving puzzles, fostering the development of logical thinking."
+- [Marvel Information Portal](https://marvel-characters-ivory.vercel.app/) -  "A website about the Marvel Universe that enables users to find information about characters and comics. The goal is to simplify the search process and provide convenient access to the Marvel world for fans."
 
 ## 🌱 In Search Of
 
@@ -25,8 +25,8 @@ I strive for continuous learning and growth. I'm interested in new technologies,
 
 ## 📫 How to Reach Me
 
-- [LinkedIn]((https://www.linkedin.com/in/dzmitry-rybak/))
-- [Portfolio]((https://rybak.vercel.app/))
+- [LinkedIn](https://www.linkedin.com/in/dzmitry-rybak/)
+- [Portfolio](https://rybak.vercel.app/)
 - Email: nakadisa@icloud.com
 
 ## 👨‍💻 Quote
